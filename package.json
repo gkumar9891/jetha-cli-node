@@ -1,5 +1,5 @@
 {
-  "name": "jetha-cli",
+  "name": "@gkumar9891/jetha-cli",
   "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
